@@ -1,6 +1,6 @@
 👋 Hi, I’m @dakotaydg
 
-👀 I’m interested in front-end web design and business analytics/visualization.
+👀 I’m interested in front-end web design and business analytics/data visualization.
 
 🌱 I’m currently learning HTML, CSS, Java, and SQL.
 
