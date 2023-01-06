@@ -1,6 +1,9 @@
 👋 Hi, I’m @dakotaydg
+
 👀 I’m interested in front-end web design and business analytics/visualization.
+
 🌱 I’m currently learning HTML, CSS, Java, and SQL.
+
 📫 How to reach me: mcmullind2@mymail.nku.edu or connect with me on <a href="https://www.linkedin.com/in/dakota-m">LinkedIn</a>!
 
 <!---
