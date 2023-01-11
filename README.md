@@ -1,4 +1,4 @@
-👋 Hi, I’m @dakotaydg
+👋 Hi, I’m Dakota!
 
 👀 I’m interested in front-end web design, business analytics, and data visualization.
 
