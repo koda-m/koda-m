@@ -2,7 +2,7 @@
 
 👀 I’m interested in front-end development, business analytics, and data visualization.
 
-🎓 B.S. Business Information Systems with a specilization in Information Systems Auditing (Minors in Business Analytics & Business).
+🎓 B.S. Business Information Systems with a specialization in Information Systems Auditing (Minors in Business Analytics & Business).
 
 💻 Skilled in HTML, CSS, Javascript, PHP, and Bootstrap.
 
