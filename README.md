@@ -6,7 +6,7 @@
 
 💻 Skilled in HTML, CSS, Bootstrap, Javascript, and PHP.
 
-🌱 I’m currently learning R, SQL, and C#.
+🌱 I’m currently learning Python, R, SQL, and C#.
 
 📫 Reach me by email (dakotajmcmullin@gmail.com) or connect with me on <a href="https://www.linkedin.com/in/dakota-m">LinkedIn</a>!
 
