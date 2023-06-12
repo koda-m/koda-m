@@ -4,7 +4,7 @@
 
 🎓 B.S. Business Information Systems with a specialization in Information Systems Auditing (Minors in Business Analytics & Business).
 
-💻 Skilled in HTML, CSS, Javascript, PHP, and Bootstrap.
+💻 Skilled in HTML, CSS, Bootstrap, Javascript, and PHP.
 
 🌱 I’m currently learning R, SQL, and C#.
 
