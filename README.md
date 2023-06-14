@@ -1,4 +1,4 @@
-👋 Hi, I’m Dakota!
+<style>*{background-color:#0C090A;}</style>👋 Hi, I’m Dakota!
 
 👀 I’m interested in front-end development, business analytics, and data visualization.
 
