@@ -1,6 +1,6 @@
 👋 Hi, I’m Dakota!
 
-👀 I’m interested in front-end development, business analytics, and data visualization.
+👀 I’m interested in front-end development, business analytics, data visualization, and anything else involving technology.
 
 🎓 B.S. Business Information Systems with a specialization in Information Systems Auditing (Minors in Business Analytics & Business).
 
