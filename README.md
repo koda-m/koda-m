@@ -4,9 +4,9 @@
 
 🎓 B.S. Business Information Systems with a specialization in Information Systems Auditing (Minors in Business Analytics & Business).
 
-💻 Skilled in HTML, CSS, Javascript, and Bootstrap.
+💻 Skilled in HTML, CSS, Javascript, Bootstrap, and SQL.
 
-🌱 I’m currently learning React, Redux, Python, R, SQL, and C#.
+🌱 I’m currently learning React, Redux, Python, R, and C#.
 
 📫 Reach me by email (dakotajmcmullin@gmail.com), challenge me on <a href="https://www.sololearn.com/profile/21195611">Sololearn</a>, or connect with me on <a href="https://www.linkedin.com/in/dakota-m">LinkedIn</a>!
 
