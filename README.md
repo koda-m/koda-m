@@ -6,7 +6,7 @@
 
 <!--💻 Skilled in HTML, CSS, and Javascript.
 
-🌱 I’m currently learning React<!--, Redux, Python, R, and C#--> and working on my portfolio.-->
+🌱 I’m currently learning React, Redux, Python, R, and C# and working on my portfolio.-->
 
 📫 Reach me by email (dakotajmcmullin@gmail.com), <!--challenge me on <a href="https://www.sololearn.com/profile/21195611">Sololearn</a>,-->or connect with me on <a href="https://www.linkedin.com/in/dakota-m">LinkedIn</a>!
 
