@@ -1,4 +1,4 @@
-👋 Hi, I’m Dakota!
+👋 Hi, I’m Dakota! I’m a web developer, tech enthusiast, and problem solver passionate about creating intuitive digital experiences.
 
 👀 I’m interested in front-end development, business analytics, data visualization, and anything else involving technology.
 
