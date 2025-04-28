@@ -1,6 +1,6 @@
 👋 Hi, I’m Dakota! I’m a web developer, tech enthusiast, and problem solver passionate about creating intuitive digital experiences.
 
-👀 I’m interested in front-end web development, data analytics, data visualization, and anything else involving technology.
+👀 I’m interested in front-end web development, data analytics & visualization, and anything else involving technology.
 
 🎓 B.S. Business Information Systems with a specialization in Information Systems Auditing (Minors in Business Analytics & Business).
 
