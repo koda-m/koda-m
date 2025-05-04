@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning React, Redux, Python, R, and C# and working on my portfolio.-->
 
-⛰️ When I’m not coding, you can find me camping, hiking, and exploring the outdoors (especially the Sheltowee Trace)!
+⛰️ When I’m not coding, you can find me gardening, camping, hiking, and exploring the outdoors (especially the Sheltowee Trace)!
 
 📫 Reach me by email (dakotajmcmullin@gmail.com) <!--challenge me on <a href="https://www.sololearn.com/profile/21195611">Sololearn</a>,-->or connect with me on <a href="https://www.linkedin.com/in/dakota-m">LinkedIn</a>!
 <!--<br>
